@@ -1,0 +1,15 @@
+C:\Users\WADOOD\OneDrive\Desktop\BuilderPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.exe
+C:\Users\WADOOD\OneDrive\Desktop\BuilderPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.deps.json
+C:\Users\WADOOD\OneDrive\Desktop\BuilderPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.runtimeconfig.json
+C:\Users\WADOOD\OneDrive\Desktop\BuilderPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.dll
+C:\Users\WADOOD\OneDrive\Desktop\BuilderPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.pdb
+C:\Users\WADOOD\OneDrive\Desktop\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WADOOD\OneDrive\Desktop\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\WADOOD\OneDrive\Desktop\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.AssemblyInfo.cs
+C:\Users\WADOOD\OneDrive\Desktop\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\WADOOD\OneDrive\Desktop\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.sourcelink.json
+C:\Users\WADOOD\OneDrive\Desktop\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.dll
+C:\Users\WADOOD\OneDrive\Desktop\BuilderPattern\BuilderPattern\obj\Debug\net8.0\refint\BuilderPattern.dll
+C:\Users\WADOOD\OneDrive\Desktop\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.pdb
+C:\Users\WADOOD\OneDrive\Desktop\BuilderPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.genruntimeconfig.cache
+C:\Users\WADOOD\OneDrive\Desktop\BuilderPattern\BuilderPattern\obj\Debug\net8.0\ref\BuilderPattern.dll
